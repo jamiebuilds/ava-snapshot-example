@@ -2,7 +2,7 @@ module.exports = () => {
   return {
     foo: 42,
     bar: {
-      baz: 100
+      baz: 3.14
     }
   }
 }
